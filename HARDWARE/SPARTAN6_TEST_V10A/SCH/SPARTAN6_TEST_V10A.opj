@@ -6,12 +6,14 @@
       (File "e:\cadencelib\orcad\hyoc.olb"
         (Type "Schematic Library"))
       (File "i:\2018年----fpga\黑金\ax516\03_原理图库\ax545_sch_lib.olb"
+        (Type "Schematic Library"))
+      (File "e:\cadencelib\orcad\ic.olb"
         (Type "Schematic Library")))
     (BuildFileAddedOrDeleted "x")
     (CompileFileAddedOrDeleted "x")
     ("Create Allegro Netlist" "TRUE")
     ("Allegro Netlist Directory"
-       "H:\GitHub\MBED-TOOLS\HARDWARE\EZFET_V10B\SCH\allegro")
+       "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\allegro")
     ("View Allegro Netlist Files" "FALSE")
     ("Allegro Netlist Create DCF File" "FALSE")
     ("Update Allegro Board" "FALSE")
@@ -44,11 +46,11 @@
     (BOM_View_Output "FALSE")
     (ANNOTATE_Scope "0")
     (ANNOTATE_Mode "1")
-    (ANNOTATE_Action "0")
+    (ANNOTATE_Action "3")
     (Annotate_Page_Order "0")
     (ANNOTATE_Reset_References_to_1 "FALSE")
     (ANNOTATE_No_Page_Number_Change "FALSE")
-    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}{Package}")
     (ANNOTATE_IncludeNonPrimitive "FALSE")
     (ANNOTATE_PreserveDesignator "FALSE")
     (ANNOTATE_PreserveUserEdits "FALSE")
@@ -66,7 +68,7 @@
     (DRC_Run_Electrical_Rules "TRUE")
     (DRC_Run_Physical_Rules "FALSE")
     (DRC_Report_File
-       "H:\GitHub\MBED-TOOLS\HARDWARE\EZFET_V10B\SCH\EZFET_V10B.DRC")
+       "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DRC")
     (DRC_Check_Ports "FALSE")
     (DRC_Check_Off-Page_Connectors "FALSE")
     (DRC_Report_Ports_and_Off-page_Connectors "FALSE")
@@ -95,10 +97,47 @@
     (DRC_Check_Name_Prop_For_HierBlocks "TRUE")
     (DRC_Run_Physical_Custom_DRC "FALSE")
     (File ".\spartan6_test_v10a.dsn"
-      (Type "Schematic Design")))
-  (Folder "Outputs")
+      (Type "Schematic Design"))
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (IREFReportFile
+       "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.csv")
+    (IREFViewOutput "0"))
+  (Folder "Outputs"
+    (File ".\spartan6_test_v10a.drc"
+      (Type "Report"))
+    (File ".\spartan6_test_v10a.csv"
+      (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    (SWITCH_3P
+      (FullPartName "SWITCH_3P.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
+      (DeviceIndex "0"))
+    ("CONN RECT 20x2"
+      (FullPartName "CONN RECT 20x2.Normal")
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN RCPT 6X2"
+      (FullPartName "CONN RCPT 6X2.Normal")
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN RCPT 9x2"
+      (FullPartName "CONN RCPT 9x2.Normal")
+      (LibraryName "D:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONNECTOR VGA"
+      (FullPartName "CONNECTOR VGA.Normal")
+      (LibraryName "I:\2018年----FPGA\黑金\AX516\03_原理图库\AX545_SCH_LIB.OLB")
+      (DeviceIndex "0"))
+    (DS1302Z+
+      (FullPartName "DS1302Z+.Normal")
+      (LibraryName "E:\CADENCELIB\ORCAD\IC.OLB")
+      (DeviceIndex "0"))
+    (CY7C68013A_3
+      (FullPartName "CY7C68013A_3.Normal")
+      (LibraryName "I:\2018年----FPGA\黑金\AX516\03_原理图库\AX545_SCH_LIB.OLB")
+      (DeviceIndex "0"))
     (RTL8211EG-VB-CG
       (FullPartName "RTL8211EG-VB-CG.Normal")
       (LibraryName "E:\CADENCELIB\ORCAD\HYOC.OLB")
@@ -168,26 +207,6 @@
     ("CONN PLUG 18x2"
       (FullPartName "CONN PLUG 18x2.Normal")
       (LibraryName "D:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
-      (DeviceIndex "0"))
-    (SWITCH-SPST-2P
-      (FullPartName "SWITCH-SPST-2P.Normal")
-      (LibraryName "H:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
-      (DeviceIndex "0"))
-    ("TEST P"
-      (FullPartName "TEST P.Normal")
-      (LibraryName "H:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
-      (DeviceIndex "0"))
-    (INDUCTOR
-      (FullPartName "INDUCTOR.Normal")
-      (LibraryName "H:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
-      (DeviceIndex "0"))
-    (RES1
-      (FullPartName "RES1.Normal")
-      (LibraryName "H:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
-      (DeviceIndex "0"))
-    (XTAL
-      (FullPartName "XTAL.Normal")
-      (LibraryName "H:\CADENCELIB\XXXLZJXXX\XXXLZJXXX.OLB")
       (DeviceIndex "0")))
   (ISPCBBASICLICENSE "false")
   (GlobalState
@@ -196,35 +215,25 @@
       (Path "Design Resources" ".\spartan6_test_v10a.dsn")
       (Path "Design Resources" ".\spartan6_test_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
+      (Path "Outputs")
       (Select "Design Resources" ".\spartan6_test_v10a.dsn" "MAIN"
          "06 FPGA POWER CONFIG"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 374"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 289 0 946"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 104 1451 104 693")
-        (Scroll "-214 -6")
-        (Zoom "71")
+        (Placement "44 2 3 -1 -1 -8 -31 156 1499 156 669")
+        (Scroll "397 2279")
+        (Zoom "296")
         (Occurrence "/"))
       (Path
          "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
       (Schematic "MAIN")
-      (Page "09 ETHERNET PHY"))
-    (Doc
-      (Type "COrSchematicDoc")
-      (Frame
-        (Placement "44 0 1 -1 -1 -8 -31 130 1477 130 719")
-        (Scroll "0 807")
-        (Zoom "142")
-        (Occurrence "/"))
-      (Path
-         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
-      (Schematic "MAIN")
-      (Page "07 DDR3")))
+      (Page "08 FLASH CLOCK JTAG")))
   (MPSSessionName "Administrator")
   (LastUsedLibraryBrowseDirectory "I:\2018年----FPGA\黑金\AX516\03_原理图库"))
