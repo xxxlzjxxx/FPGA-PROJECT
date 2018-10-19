@@ -107,7 +107,16 @@
     (File ".\spartan6_test_v10a.drc"
       (Type "Report"))
     (File ".\spartan6_test_v10a.csv"
-      (Type "Report")))
+      (Type "Report"))
+    (File ".\allegro\pstxnet.dat"
+      (Type "Report")
+      (DisplayName "pstxnet.dat"))
+    (File ".\allegro\pstxprt.dat"
+      (Type "Report")
+      (DisplayName "pstxprt.dat"))
+    (File ".\allegro\pstchip.dat"
+      (Type "Report")
+      (DisplayName "pstchip.dat")))
   (Folder "Referenced Projects")
   (PartMRUSelector
     (SWITCH_3P
@@ -216,20 +225,85 @@
       (Path "Design Resources" ".\spartan6_test_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\spartan6_test_v10a.dsn" "MAIN"
-         "06 FPGA POWER CONFIG"))
+      (Select "Design Resources" ".\spartan6_test_v10a.dsn"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
       (Frame
-        (Placement "44 0 1 -1 -1 -1 -1 0 289 0 946"))
+        (Placement "44 0 1 -1 -1 -1 -1 0 250 0 946"))
       (Tab 0))
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 156 1499 156 669")
-        (Scroll "397 2279")
-        (Zoom "296")
+        (Placement "44 0 1 -1 -1 -8 -31 182 1508 182 797")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "12 VGA"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 234 1564 234 853")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "09 ETHERNET PHY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 286 1616 286 905")
+        (Scroll "0 286")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "07 DDR3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 26 1356 26 645")
+        (Scroll "-29 0")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path
+         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "04 FPGA BANK0 BANK1"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1382 52 671")
+        (Scroll "69 200")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "05 FPGA BANK2 BANK3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 697")
+        (Scroll "69 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "06 FPGA POWER CONFIG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1434 104 723")
+        (Scroll "0 260")
+        (Zoom "100")
         (Occurrence "/"))
       (Path
          "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
