@@ -1,5 +1,5 @@
 FILE_TYPE = EXPANDEDPARTLIST;
-{ Using PSTWRITER 17.2.0 d001Oct-19-2018 at 16:11:12 }
+{ Using PSTWRITER 17.2.0 d001Oct-25-2018 at 10:41:37 }
 DIRECTIVES
  PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
  ROOT_DRAWING='SPARTAN6_TEST_V10A';
@@ -2648,16 +2648,6 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- R46 'R_GENERIC_RC0603_1K/OTM':;
-
-SECTION_NUMBER 1
- '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16822053@EMULATION MODULE.R_GENERIC.NORMAL(CHIPS)':
- C_PATH='@spartan6_test_v10a.main(sch_1):ins16822053@\emulation module\.\r_generic.normal\(chips)',
- P_PATH='@spartan6_test_v10a.main(sch_1):page8_ins16822053@\emulation module\.\r_generic.normal\(chips)',
- PRIM_FILE='.\pstchip.dat',
- SECTION='';
-
-PART_NAME
  R47 'R_GENERIC_RC0603_1K':;
 
 SECTION_NUMBER 1
@@ -3238,62 +3228,62 @@ SECTION_NUMBER 1
  SECTION='';
 
 PART_NAME
- S1 'SW PUSHBUTTON_0_KEY_SMD_2_KEY':;
+ S1 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
 
 SECTION_NUMBER 1
- '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16855691@MK60_SWTH_V10A.SW PUSHBUTTON_0.NORMAL(CHIPS)':
- C_PATH='@spartan6_test_v10a.main(sch_1):ins16855691@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
- P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16855691@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16902598@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@spartan6_test_v10a.main(sch_1):ins16902598@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16902598@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- S2 'SW PUSHBUTTON_0_KEY_SMD_2_KEY':;
+ S2 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
 
 SECTION_NUMBER 1
- '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16855262@MK60_SWTH_V10A.SW PUSHBUTTON_0.NORMAL(CHIPS)':
- C_PATH='@spartan6_test_v10a.main(sch_1):ins16855262@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
- P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16855262@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16903171@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@spartan6_test_v10a.main(sch_1):ins16903171@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16903171@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- S3 'SW PUSHBUTTON_0_KEY_SMD_2_KEY':;
+ S3 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
 
 SECTION_NUMBER 1
- '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16855636@MK60_SWTH_V10A.SW PUSHBUTTON_0.NORMAL(CHIPS)':
- C_PATH='@spartan6_test_v10a.main(sch_1):ins16855636@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
- P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16855636@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16903552@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@spartan6_test_v10a.main(sch_1):ins16903552@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16903552@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- S4 'SW PUSHBUTTON_0_KEY_SMD_2_KEY':;
+ S4 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
 
 SECTION_NUMBER 1
- '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16855449@MK60_SWTH_V10A.SW PUSHBUTTON_0.NORMAL(CHIPS)':
- C_PATH='@spartan6_test_v10a.main(sch_1):ins16855449@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
- P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16855449@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16903687@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@spartan6_test_v10a.main(sch_1):ins16903687@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16903687@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- S5 'SW PUSHBUTTON_0_KEY_SMD_2_KEY':;
+ S5 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
 
 SECTION_NUMBER 1
- '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16855471@MK60_SWTH_V10A.SW PUSHBUTTON_0.NORMAL(CHIPS)':
- C_PATH='@spartan6_test_v10a.main(sch_1):ins16855471@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
- P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16855471@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16903828@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@spartan6_test_v10a.main(sch_1):ins16903828@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16903828@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 
 PART_NAME
- S6 'SW PUSHBUTTON_0_KEY_SMD_2_KEY':;
+ S6 'SWITCH-SPST-4P_K2-1112SW-A4SW-0':;
 
 SECTION_NUMBER 1
- '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16855405@MK60_SWTH_V10A.SW PUSHBUTTON_0.NORMAL(CHIPS)':
- C_PATH='@spartan6_test_v10a.main(sch_1):ins16855405@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
- P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16855405@mk60_swth_v10a.\sw pushbutton_0.normal\(chips)',
+ '@SPARTAN6_TEST_V10A.MAIN(SCH_1):INS16903977@XXXLZJXXX.SWITCH-SPST-4P.NORMAL(CHIPS)':
+ C_PATH='@spartan6_test_v10a.main(sch_1):ins16903977@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
+ P_PATH='@spartan6_test_v10a.main(sch_1):page10_ins16903977@xxxlzjxxx.\switch-spst-4p.normal\(chips)',
  PRIM_FILE='.\pstchip.dat',
  SECTION='';
 

@@ -1,5 +1,5 @@
 FILE_TYPE=LIBRARY_PARTS;
-{ Using PSTWRITER 17.2.0 d001Oct-19-2018 at 16:11:12}
+{ Using PSTWRITER 17.2.0 d001Oct-25-2018 at 10:41:37}
 primitive 'JMP-2_0_CR1220_BS-1220-2(CR1220';
   pin
     '1':
@@ -1167,21 +1167,6 @@ primitive 'R_GENERIC_RC0603_33R';
     VALUE='33R';
   end_body;
 end_primitive;
-primitive 'R_GENERIC_RC0603_1K/OTM';
-  pin
-    '1':
-      PIN_NUMBER='(1)';
-      PINUSE='UNSPEC';
-    '2':
-      PIN_NUMBER='(2)';
-      PINUSE='UNSPEC';
-  end_pin;
-  body
-    PART_NAME='R_Generic';
-    JEDEC_TYPE='RC0603';
-    VALUE='1K/OTM';
-  end_body;
-end_primitive;
 primitive 'R_GENERIC_RC0603_1.5K';
   pin
     '1':
@@ -1257,19 +1242,25 @@ primitive 'R_GENERIC_RC0603_100R/OTM';
     VALUE='100R/OTM';
   end_body;
 end_primitive;
-primitive 'SW PUSHBUTTON_0_KEY_SMD_2_KEY';
+primitive 'SWITCH-SPST-4P_K2-1112SW-A4SW-0';
   pin
     '1':
       PIN_NUMBER='(1)';
       PINUSE='UNSPEC';
+    '4':
+      PIN_NUMBER='(4)';
+      PINUSE='UNSPEC';
     '2':
       PIN_NUMBER='(2)';
       PINUSE='UNSPEC';
+    '3':
+      PIN_NUMBER='(3)';
+      PINUSE='UNSPEC';
   end_pin;
   body
-    PART_NAME='SW PUSHBUTTON_0';
-    JEDEC_TYPE='key_smd_2';
-    VALUE='KEY';
+    PART_NAME='SWITCH-SPST-4P';
+    JEDEC_TYPE='K2-1112SW-A4SW-04';
+    VALUE='K2-1112SW-A4SW-04';
   end_body;
 end_primitive;
 primitive 'SWITCH_3P_SWITCH_3P_L_SWITCH_3P';
