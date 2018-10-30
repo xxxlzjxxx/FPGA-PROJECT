@@ -225,7 +225,7 @@
       (Path "Design Resources" ".\spartan6_test_v10a.dsn" "MAIN")
       (Path "Design Resources" "Library")
       (Path "Outputs")
-      (Select "Design Resources" ".\spartan6_test_v10a.dsn" "MAIN" "10 USB PHY"))
+      (Select "Design Resources" ".\spartan6_test_v10a.dsn" "MAIN" "13 POWER"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -235,13 +235,68 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 130 1460 130 749")
+        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 749")
         (Scroll "0 107")
         (Zoom "148")
         (Occurrence "/"))
       (Path
          "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
       (Schematic "MAIN")
-      (Page "10 USB PHY")))
+      (Page "10 USB PHY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 52 1382 52 671")
+        (Scroll "-29 0")
+        (Zoom "74")
+        (Occurrence "/"))
+      (Path
+         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "12 VGA"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 78 1408 78 697")
+        (Scroll "853 207")
+        (Zoom "148")
+        (Occurrence "/"))
+      (Path
+         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "09 ETHERNET PHY"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 104 1434 104 723")
+        (Scroll "0 0")
+        (Zoom "100")
+        (Occurrence "/"))
+      (Path
+         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "08 FLASH CLOCK JTAG"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 130 1460 130 749")
+        (Scroll "0 765")
+        (Zoom "148")
+        (Occurrence "/"))
+      (Path
+         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "07 DDR3"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 156 1486 156 775")
+        (Scroll "863 0")
+        (Zoom "148")
+        (Occurrence "/"))
+      (Path
+         "H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\SPARTAN6_TEST_V10A.DSN")
+      (Schematic "MAIN")
+      (Page "13 POWER")))
   (MPSSessionName "Administrator")
   (LastUsedLibraryBrowseDirectory "I:\2018年----FPGA\黑金\AX516\03_原理图库"))

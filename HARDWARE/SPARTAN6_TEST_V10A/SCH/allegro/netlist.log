@@ -1,4 +1,4 @@
-{ Using PSTWRITER 17.2.0 d001Oct-25-2018 at 10:41:35 }
+{ Using PSTWRITER 17.2.0 d001Oct-30-2018 at 19:05:06 }
 
 #1 WARNING(ORCAP-36038): "No_connect" property on Pin "U13.23" ignored for U13: MAIN, 11 EEPROM RTC (86.36, 172.72). Connecting pin to net "UART_CTS".
 #2 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.4" ignored for U10: MAIN, 11 EEPROM RTC (251.46, 48.26). Connecting pin to net "RTC_RESET".
@@ -20,134 +20,135 @@
 #18 WARNING(ORCAP-36038): "No_connect" property on Pin "R143.5" ignored for R143: MAIN, 12 VGA (109.22, 38.10). Connecting pin to net "N16870578".
 #19 WARNING(ORCAP-36038): "No_connect" property on Pin "R143.4" ignored for R143: MAIN, 12 VGA (109.22, 38.10). Connecting pin to net "VGA_G".
 #20 WARNING(ORCAP-36038): "No_connect" property on Pin "R151.4" ignored for R151: MAIN, 12 VGA (109.22, 91.44). Connecting pin to net "VGA_G".
-#21 WARNING(ORCAP-36038): "No_connect" property on Pin "R150.5" ignored for R150: MAIN, 12 VGA (45.72, 93.98). Connecting pin to net "N16870643".
-#22 WARNING(ORCAP-36038): "No_connect" property on Pin "U15.2" ignored for U15: MAIN, 13 POWER (243.84, 40.64). Connecting pin to net "N16872608".
-#23 WARNING(ORCAP-36006): Part Name "JMP-2_0_CR1220_BS-1220-2(CR1220)" is renamed to "JMP-2_0_CR1220_BS-1220-2(CR1220".
-#24 WARNING(ORCAP-36006): Part Name "CAPT_100UF_3528_6R3V_10%_LXXXX_CAP-2R5-6R3X6R3_470UF_6V3" is renamed to "CAPT_100UF_3528_6R3V_10%_LXXXX_".
-#25 WARNING(ORCAP-36006): Part Name "SMA-50R_0_SMA-50R-DIP_SMA-50R/NI" is renamed to "SMA-50R_0_SMA-50R-DIP_SMA-50R/N".
-#26 WARNING(ORCAP-36006): Part Name "JTAG 7X2/SM_HEADER7X2_2R54_JTAG_JTAG 7X2/SM" is renamed to "JTAG 7X2/SM_HEADER7X2_2R54_JTAG".
-#27 WARNING(ORCAP-36006): Part Name "CONNECTOR VGA_0_CONNECTOR_VGA_CONNECTOR VGA" is renamed to "CONNECTOR VGA_0_CONNECTOR_VGA_C".
-#28 WARNING(ORCAP-36006): Part Name "CONN RCPT 9X2_HEADER9X2_2R54_HEADER9X2_2R54" is renamed to "CONN RCPT 9X2_HEADER9X2_2R54_HE".
-#29 WARNING(ORCAP-36006): Part Name "CONN RCPT 6X2_HEADER6X2_2R54_HEADER6X2_2R54" is renamed to "CONN RCPT 6X2_HEADER6X2_2R54_HE".
-#30 WARNING(ORCAP-36006): Part Name "CONN RECT 20X2_HEADER20X2_2R54_HEADER20X2_2R54" is renamed to "CONN RECT 20X2_HEADER20X2_2R54_".
-#31 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_200MA_LC0805_BEAD_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_200MA_LC08".
-#32 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_LC0805_BEAD_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_1_LC0805_B".
-#33 WARNING(ORCAP-36006): Part Name "INDUCTOR_0_SWPA6045_SWPA6045S6R8MT" is renamed to "INDUCTOR_0_SWPA6045_SWPA6045S6R".
-#34 WARNING(ORCAP-36006): Part Name "INDUCTOR_0_SWPA4020_SWPA4020S2R2MT" is renamed to "INDUCTOR_0_SWPA4020_SWPA4020S2R".
-#35 WARNING(ORCAP-36006): Part Name "SI4497DY-T1-GE3_SOIC8_IRF9321TRPBF" is renamed to "SI4497DY-T1-GE3_SOIC8_IRF9321TR".
-#36 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
-#37 WARNING(ORCAP-36006): Part Name "XC6SLX16_45_CSG324_XC6SLX16-2CSG324C" is renamed to "XC6SLX16_45_CSG324_XC6SLX16-2CS".
-#38 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#B10" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#39 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#B15" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#40 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#B5" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#41 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#D13" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#42 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#D7" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#43 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#E10" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#44 WARNING(ORCAP-36042): Pin "VCCO_1" is renamed to "VCCO_1#E17" as visible power pin of same name already exists in Package XC6SLX16_45B , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#45 WARNING(ORCAP-36042): Pin "VCCO_1" is renamed to "VCCO_1#G15" as visible power pin of same name already exists in Package XC6SLX16_45B , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#46 WARNING(ORCAP-36042): Pin "VCCO_1" is renamed to "VCCO_1#J17" as visible power pin of same name already exists in Package XC6SLX16_45B , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#47 WARNING(ORCAP-36042): Pin "VCCO_1" is renamed to "VCCO_1#J14" as visible power pin of same name already exists in Package XC6SLX16_45B , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#48 WARNING(ORCAP-36042): Pin "VCCO_1" is renamed to "VCCO_1#R17" as visible power pin of same name already exists in Package XC6SLX16_45B , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#49 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#P9" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#50 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#R12" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#51 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#U14" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#52 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#U9" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#53 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#U4" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#54 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#R6" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#55 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#E2" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#56 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#G4" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#57 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#J2" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#58 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#R2" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#59 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#M4" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#60 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#J5" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#61 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#B1" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#62 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#B17" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#63 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#E14" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#64 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#E5" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#65 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#E9" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#66 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#G10" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#67 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#J12" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#68 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#K7" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#69 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#M9" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#70 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#P10" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#71 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#P14" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#72 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#P5" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#73 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#G7" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#74 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#H11" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#75 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#H9" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#76 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#J10" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#77 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#J8" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#78 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#K11" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#79 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#K9" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#80 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#L10" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#81 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#L8" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#82 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#M12" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#83 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#M7" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#84 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A1" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#85 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A18" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#86 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B13" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#87 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B7" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#88 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C16" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#89 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C3" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#90 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D10" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#91 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D5" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#92 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E15" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#93 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G12" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#94 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G17" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#95 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G2" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#96 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G5" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#97 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H10" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#98 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H8" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#99 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J11" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#100 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J15" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#101 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J4" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#102 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J9" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#103 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K10" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#104 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K8" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#105 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L11" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#106 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L9" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#107 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M17" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#108 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M2" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#109 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M6" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#110 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N13" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#111 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R1" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#112 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R14" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#113 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R18" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#114 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R4" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#115 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R9" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#116 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T16" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#117 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U12" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#118 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U6" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#119 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V1" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#120 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V18" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
-#121 WARNING(ORCAP-36006): Part Name "MP1584EN-LF-Z_SOIC8-PAD_MP1584EN-LF-Z" is renamed to "MP1584EN-LF-Z_SOIC8-PAD_MP1584E".
-#122 WARNING(ORCAP-36006): Part Name "TLV62565DBVR_SOT23-5_TLV62565DBVR" is renamed to "TLV62565DBVR_SOT23-5_TLV62565DB".
-#123 WARNING(ORCAP-36006): Part Name "MT41J256M16_2_FBGA-96_MT41J256M16_2" is renamed to "MT41J256M16_2_FBGA-96_MT41J256M".
-#124 WARNING(ORCAP-36006): Part Name "TPS51200DRCR_0_VSON-10_TPS51200DRCR" is renamed to "TPS51200DRCR_0_VSON-10_TPS51200".
-#125 WARNING(ORCAP-36006): Part Name "W25Q256FV/BV_SOIC-16_300_W25Q256FV/BV" is renamed to "W25Q256FV/BV_SOIC-16_300_W25Q25".
-#126 WARNING(ORCAP-36006): Part Name "RTL8211EG-VB-CG_QFN-64_RTL8211EG-VB-CG" is renamed to "RTL8211EG-VB-CG_QFN-64_RTL8211E".
-#127 WARNING(ORCAP-36006): Part Name "TSX-3225_X-4P-3R2X2R5-SMD_X322525MSB4SI" is renamed to "TSX-3225_X-4P-3R2X2R5-SMD_X3225".
-#128 WARNING(ORCAP-36006): Part Name "CY7C68013A_3_QFN-56_CY7C68013A-56LTXC" is renamed to "CY7C68013A_3_QFN-56_CY7C68013A-".
-#129 WARNING(ORCAP-36042): Pin "AVCC" is renamed to "AVCC#3" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#130 WARNING(ORCAP-36042): Pin "AGND" is renamed to "AGND#6" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#131 WARNING(ORCAP-36042): Pin "AVCC" is renamed to "AVCC#7" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#132 WARNING(ORCAP-36042): Pin "AGND" is renamed to "AGND#10" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#133 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#11" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#134 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#12" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#135 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#17" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#136 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#26" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#137 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#27" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#138 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#28" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#139 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#32" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#140 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#43" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#141 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#53" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#142 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#55" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#143 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#56" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#144 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#41" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
-#145 WARNING(ORCAP-36006): Part Name "TSX-3225_X-4P-3R2X2R5-SMD_X322524MSB4SI" is renamed to "TSX-3225_X-4P-3R2X2R5-SMD_X32_1".
-#146 WARNING(ORCAP-36006): Part Name "USB-MICRO_USB-U-F-M5SS-W-1_USB-MICRO" is renamed to "USB-MICRO_USB-U-F-M5SS-W-1_USB-".
-#147 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-2P-3R2X1R5-SMD_XTAL_32768HZ_3215" is renamed to "XTAL_5032_0_X-2P-3R2X1R5-SMD_XT".
-#148 WARNING(ORCAP-36006): Part Name "SMD_OSC_3_X-4P-5R0X3R2-SMD_SG5032CAN-50M-TJGA" is renamed to "SMD_OSC_3_X-4P-5R0X3R2-SMD_SG50".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "R145.4" ignored for R145: MAIN, 12 VGA (109.22, 55.88). Connecting pin to net "VGA_G".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "R150.5" ignored for R150: MAIN, 12 VGA (45.72, 93.98). Connecting pin to net "N16870643".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "U15.2" ignored for U15: MAIN, 13 POWER (243.84, 40.64). Connecting pin to net "N16872608".
+#24 WARNING(ORCAP-36006): Part Name "JMP-2_0_CR1220_BS-1220-2(CR1220)" is renamed to "JMP-2_0_CR1220_BS-1220-2(CR1220".
+#25 WARNING(ORCAP-36006): Part Name "CAPT_100UF_3528_6R3V_10%_LXXXX_CAP-2R5-6R3X6R3_470UF_6V3" is renamed to "CAPT_100UF_3528_6R3V_10%_LXXXX_".
+#26 WARNING(ORCAP-36006): Part Name "SMA-50R_0_SMA-50R-DIP_SMA-50R/NI" is renamed to "SMA-50R_0_SMA-50R-DIP_SMA-50R/N".
+#27 WARNING(ORCAP-36006): Part Name "JTAG 7X2/SM_HEADER7X2_2R54_JTAG_JTAG 7X2/SM" is renamed to "JTAG 7X2/SM_HEADER7X2_2R54_JTAG".
+#28 WARNING(ORCAP-36006): Part Name "CONNECTOR VGA_0_CONNECTOR_VGA_CONNECTOR VGA" is renamed to "CONNECTOR VGA_0_CONNECTOR_VGA_C".
+#29 WARNING(ORCAP-36006): Part Name "CONN RCPT 9X2_HEADER9X2_2R54_HEADER9X2_2R54" is renamed to "CONN RCPT 9X2_HEADER9X2_2R54_HE".
+#30 WARNING(ORCAP-36006): Part Name "CONN RCPT 6X2_HEADER6X2_2R54_HEADER6X2_2R54" is renamed to "CONN RCPT 6X2_HEADER6X2_2R54_HE".
+#31 WARNING(ORCAP-36006): Part Name "CONN RECT 20X2_HEADER20X2_2R54_HEADER20X2_2R54" is renamed to "CONN RECT 20X2_HEADER20X2_2R54_".
+#32 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_200MA_LC0805_BEAD_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_200MA_LC08".
+#33 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_LC0805_BEAD_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_1_LC0805_B".
+#34 WARNING(ORCAP-36006): Part Name "INDUCTOR_0_SWPA6045_SWPA6045S6R8MT" is renamed to "INDUCTOR_0_SWPA6045_SWPA6045S6R".
+#35 WARNING(ORCAP-36006): Part Name "INDUCTOR_0_SWPA4020_SWPA4020S2R2MT" is renamed to "INDUCTOR_0_SWPA4020_SWPA4020S2R".
+#36 WARNING(ORCAP-36006): Part Name "SI4497DY-T1-GE3_SOIC8_IRF9321TRPBF" is renamed to "SI4497DY-T1-GE3_SOIC8_IRF9321TR".
+#37 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
+#38 WARNING(ORCAP-36006): Part Name "XC6SLX16_45_CSG324_XC6SLX16-2CSG324C" is renamed to "XC6SLX16_45_CSG324_XC6SLX16-2CS".
+#39 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#B10" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#40 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#B15" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#41 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#B5" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#42 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#D13" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#43 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#D7" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#44 WARNING(ORCAP-36042): Pin "VCCO_0" is renamed to "VCCO_0#E10" as visible power pin of same name already exists in Package XC6SLX16_45A , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#45 WARNING(ORCAP-36042): Pin "VCCO_1" is renamed to "VCCO_1#E17" as visible power pin of same name already exists in Package XC6SLX16_45B , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#46 WARNING(ORCAP-36042): Pin "VCCO_1" is renamed to "VCCO_1#G15" as visible power pin of same name already exists in Package XC6SLX16_45B , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#47 WARNING(ORCAP-36042): Pin "VCCO_1" is renamed to "VCCO_1#J17" as visible power pin of same name already exists in Package XC6SLX16_45B , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#48 WARNING(ORCAP-36042): Pin "VCCO_1" is renamed to "VCCO_1#J14" as visible power pin of same name already exists in Package XC6SLX16_45B , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#49 WARNING(ORCAP-36042): Pin "VCCO_1" is renamed to "VCCO_1#R17" as visible power pin of same name already exists in Package XC6SLX16_45B , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#50 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#P9" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#51 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#R12" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#52 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#U14" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#53 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#U9" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#54 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#U4" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#55 WARNING(ORCAP-36042): Pin "VCCO_2" is renamed to "VCCO_2#R6" as visible power pin of same name already exists in Package XC6SLX16_45C , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#56 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#E2" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#57 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#G4" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#58 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#J2" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#59 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#R2" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#60 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#M4" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#61 WARNING(ORCAP-36042): Pin "VCCO_3" is renamed to "VCCO_3#J5" as visible power pin of same name already exists in Package XC6SLX16_45D , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#62 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#B1" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#63 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#B17" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#64 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#E14" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#65 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#E5" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#66 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#E9" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#67 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#G10" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#68 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#J12" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#69 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#K7" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#70 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#M9" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#71 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#P10" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#72 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#P14" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#73 WARNING(ORCAP-36042): Pin "VCCAUX" is renamed to "VCCAUX#P5" as visible power pin of same name already exists in Package XC6SLX16_45E , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#74 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#G7" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#75 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#H11" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#76 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#H9" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#77 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#J10" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#78 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#J8" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#79 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#K11" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#80 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#K9" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#81 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#L10" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#82 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#L8" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#83 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#M12" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#84 WARNING(ORCAP-36042): Pin "VCCINT" is renamed to "VCCINT#M7" as visible power pin of same name already exists in Package XC6SLX16_45F , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#85 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A1" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#86 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#A18" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#87 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B13" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#88 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#B7" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#89 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C16" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#90 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#C3" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#91 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D10" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#92 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#D5" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#93 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#E15" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#94 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G12" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#95 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G17" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#96 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G2" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#97 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#G5" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#98 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H10" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#99 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#H8" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#100 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J11" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#101 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J15" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#102 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J4" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#103 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#J9" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#104 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K10" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#105 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#K8" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#106 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L11" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#107 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#L9" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#108 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M17" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#109 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M2" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#110 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#M6" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#111 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#N13" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#112 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R1" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#113 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R14" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#114 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R18" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#115 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R4" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#116 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#R9" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#117 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#T16" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#118 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U12" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#119 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#U6" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#120 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V1" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#121 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#V18" as visible power pin of same name already exists in Package XC6SLX16_45G , U1A: MAIN, 04 FPGA BANK0 BANK1 (48.26, 22.86).
+#122 WARNING(ORCAP-36006): Part Name "MP1584EN-LF-Z_SOIC8-PAD_MP1584EN-LF-Z" is renamed to "MP1584EN-LF-Z_SOIC8-PAD_MP1584E".
+#123 WARNING(ORCAP-36006): Part Name "TLV62565DBVR_SOT23-5_TLV62565DBVR" is renamed to "TLV62565DBVR_SOT23-5_TLV62565DB".
+#124 WARNING(ORCAP-36006): Part Name "MT41J256M16_2_FBGA-96_MT41J256M16_2" is renamed to "MT41J256M16_2_FBGA-96_MT41J256M".
+#125 WARNING(ORCAP-36006): Part Name "TPS51200DRCR_0_VSON-10_TPS51200DRCR" is renamed to "TPS51200DRCR_0_VSON-10_TPS51200".
+#126 WARNING(ORCAP-36006): Part Name "W25Q256FV/BV_SOIC-16_300_W25Q256FV/BV" is renamed to "W25Q256FV/BV_SOIC-16_300_W25Q25".
+#127 WARNING(ORCAP-36006): Part Name "RTL8211EG-VB-CG_QFN-64_RTL8211EG-VB-CG" is renamed to "RTL8211EG-VB-CG_QFN-64_RTL8211E".
+#128 WARNING(ORCAP-36006): Part Name "TSX-3225_X-4P-3R2X2R5-SMD_X322525MSB4SI" is renamed to "TSX-3225_X-4P-3R2X2R5-SMD_X3225".
+#129 WARNING(ORCAP-36006): Part Name "CY7C68013A_3_QFN-56_CY7C68013A-56LTXC" is renamed to "CY7C68013A_3_QFN-56_CY7C68013A-".
+#130 WARNING(ORCAP-36042): Pin "AVCC" is renamed to "AVCC#3" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#131 WARNING(ORCAP-36042): Pin "AGND" is renamed to "AGND#6" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#132 WARNING(ORCAP-36042): Pin "AVCC" is renamed to "AVCC#7" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#133 WARNING(ORCAP-36042): Pin "AGND" is renamed to "AGND#10" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#134 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#11" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#135 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#12" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#136 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#17" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#137 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#26" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#138 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#27" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#139 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#28" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#140 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#32" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#141 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#43" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#142 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#53" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#143 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#55" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#144 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#56" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#145 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#41" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#146 WARNING(ORCAP-36006): Part Name "TSX-3225_X-4P-3R2X2R5-SMD_X322524MSB4SI" is renamed to "TSX-3225_X-4P-3R2X2R5-SMD_X32_1".
+#147 WARNING(ORCAP-36006): Part Name "USB-MICRO_USB-U-F-M5SS-W-1_USB-MICRO" is renamed to "USB-MICRO_USB-U-F-M5SS-W-1_USB-".
+#148 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-2P-3R2X1R5-SMD_XTAL_32768HZ_3215" is renamed to "XTAL_5032_0_X-2P-3R2X1R5-SMD_XT".
+#149 WARNING(ORCAP-36006): Part Name "SMD_OSC_3_X-4P-5R0X3R2-SMD_SG5032CAN-50M-TJGA" is renamed to "SMD_OSC_3_X-4P-5R0X3R2-SMD_SG50".
 INFO(ORCAP-36080): Scanning netlist files ...
 
 Loading... H:\FPGA-PROJECT\HARDWARE\SPARTAN6_TEST_V10A\SCH\allegro/pstchip.dat

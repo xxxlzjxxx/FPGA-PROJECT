@@ -1,0 +1,86 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Allegro Netrev Import Logic                                      )
+(                                                                     )
+(    Drawing          : SPARTAN6_TEST_V10A.brd                        )
+(    Software Version : 17.2S045                                      )
+(    Date/Time        : Tue Oct 30 19:05:18 2018                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+------ Directives ------------
+
+Ripup etch:                  Yes
+Ripup delete first segment:  No
+Ripup retain bondwire:       No
+Ripup symbols:               Always
+Missing symbol has error:    No
+DRC update:                  Yes
+Schematic directory:         'H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/SCH/allegro'
+Design Directory:            'H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/PCB'
+Old design name:             'H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/PCB/SPARTAN6_TEST_V10A.brd'
+New design name:             'H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/PCB/SPARTAN6_TEST_V10A.brd'
+
+CmdLine: netrev -$ -i H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/SCH/allegro -x -y 1 -h -z -q netrev_constraint_report.xml H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/PCB/#Taaaaag08220.tmp
+
+------ Preparing to read pst files ------
+
+Starting to read H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/SCH/allegro/pstchip.dat 
+   Finished reading H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/SCH/allegro/pstchip.dat (00:00:00.07)
+Starting to read H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/SCH/allegro/pstxprt.dat 
+   Finished reading H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/SCH/allegro/pstxprt.dat (00:00:00.01)
+Starting to read H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/SCH/allegro/pstxnet.dat 
+   Finished reading H:/FPGA-PROJECT/HARDWARE/SPARTAN6_TEST_V10A/SCH/allegro/pstxnet.dat (00:00:00.01)
+
+------ Oversights/Warnings/Errors ------
+
+
+------ Library Paths ------
+MODULEPATH =  . 
+           d:/cadence/spb_17.2/share/local/pcb/modules 
+
+PSMPATH =  E:/CadenceLib/allegro/ 
+           E:/CADENCELIB/pad/ 
+
+PADPATH =  E:/CadenceLib/pad/ 
+           . 
+           symbols 
+           .. 
+           ../symbols 
+           d:/cadence/spb_17.2/share/local/pcb/padstacks 
+           d:/cadence/spb_17.2/share/pcb/pcb_lib/symbols 
+           d:/cadence/spb_17.2/share/pcb/allegrolib/symbols 
+
+
+------ Summary Statistics ------
+
+
+netrev run on Oct 30 19:05:18 2018
+   DESIGN NAME : 'SPARTAN6_TEST_V10A'
+   PACKAGING ON Jul 31 2018 12:22:04
+
+   COMPILE 'logic'
+   CHECK_PIN_NAMES OFF
+   CROSS_REFERENCE OFF
+   FEEDBACK OFF
+   INCREMENTAL OFF
+   INTERFACE_TYPE PHYSICAL
+   MAX_ERRORS 500
+   MERGE_MINIMUM 5
+   NET_NAME_CHARS '#%&()*+-./:=>?@[]^_`|'
+   NET_NAME_LENGTH 24
+   OVERSIGHTS ON
+   REPLACE_CHECK OFF
+   SINGLE_NODE_NETS ON
+   SPLIT_MINIMUM 0
+   SUPPRESS   20
+   WARNINGS ON
+
+ No error detected
+ No oversight detected
+ No warning detected
+
+cpu time      0:01:51
+elapsed time  0:00:00
+
