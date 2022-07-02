@@ -1,1 +1,0 @@
-SPARTAN6_TEST_V10A.brd

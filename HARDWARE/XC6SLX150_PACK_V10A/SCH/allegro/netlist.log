@@ -1,0 +1,77 @@
+{ Using PSTWRITER 17.2.0 d001Nov-23-2020 at 11:05:02 }
+
+#1 WARNING(ORCAP-36038): "No_connect" property on Pin "U13.23" ignored for U13: MAIN, 11 EEPROM RTC (86.36, 172.72). Connecting pin to net "UART_CTS".
+#2 WARNING(ORCAP-36038): "No_connect" property on Pin "U10.4" ignored for U10: MAIN, 11 EEPROM RTC (251.46, 48.26). Connecting pin to net "RTC_RESET".
+#3 WARNING(ORCAP-36038): "No_connect" property on Pin "U13.24" ignored for U13: MAIN, 11 EEPROM RTC (86.36, 172.72). Connecting pin to net "UART_RTS".
+#4 WARNING(ORCAP-36038): "No_connect" property on Pin "J1.1" ignored for J1: MAIN, 08 FLASH CLOCK JTAG (218.44, 76.20). Connecting pin to net "N16821800".
+#5 WARNING(ORCAP-36038): "No_connect" property on Pin "R152.5" ignored for R152: MAIN, 12 VGA (45.72, 111.76). Connecting pin to net "N16870657".
+#6 WARNING(ORCAP-36038): "No_connect" property on Pin "R145.5" ignored for R145: MAIN, 12 VGA (109.22, 55.88). Connecting pin to net "N16870584".
+#7 WARNING(ORCAP-36038): "No_connect" property on Pin "R149.5" ignored for R149: MAIN, 12 VGA (109.22, 73.66). Connecting pin to net "N16870609".
+#8 WARNING(ORCAP-36038): "No_connect" property on Pin "R150.4" ignored for R150: MAIN, 12 VGA (45.72, 93.98). Connecting pin to net "VGA_B".
+#9 WARNING(ORCAP-36038): "No_connect" property on Pin "R152.4" ignored for R152: MAIN, 12 VGA (45.72, 111.76). Connecting pin to net "VGA_B".
+#10 WARNING(ORCAP-36038): "No_connect" property on Pin "R142.4" ignored for R142: MAIN, 12 VGA (45.72, 38.10). Connecting pin to net "VGA_R".
+#11 WARNING(ORCAP-36038): "No_connect" property on Pin "R144.4" ignored for R144: MAIN, 12 VGA (45.72, 55.88). Connecting pin to net "VGA_R".
+#12 WARNING(ORCAP-36038): "No_connect" property on Pin "R151.5" ignored for R151: MAIN, 12 VGA (109.22, 91.44). Connecting pin to net "N16870619".
+#13 WARNING(ORCAP-36038): "No_connect" property on Pin "R142.5" ignored for R142: MAIN, 12 VGA (45.72, 38.10). Connecting pin to net "N16870550".
+#14 WARNING(ORCAP-36038): "No_connect" property on Pin "U11.3" ignored for U11: MAIN, 11 EEPROM RTC (50.80, 63.50). Connecting pin to net "GND".
+#15 WARNING(ORCAP-36038): "No_connect" property on Pin "U9.3" ignored for U9: MAIN, 10 USB PHY (27.94, 139.70). Connecting pin to net "GND".
+#16 WARNING(ORCAP-36038): "No_connect" property on Pin "R149.4" ignored for R149: MAIN, 12 VGA (109.22, 73.66). Connecting pin to net "N16870612".
+#17 WARNING(ORCAP-36038): "No_connect" property on Pin "R144.5" ignored for R144: MAIN, 12 VGA (45.72, 55.88). Connecting pin to net "N16870558".
+#18 WARNING(ORCAP-36038): "No_connect" property on Pin "R143.5" ignored for R143: MAIN, 12 VGA (109.22, 38.10). Connecting pin to net "N16870578".
+#19 WARNING(ORCAP-36038): "No_connect" property on Pin "R143.4" ignored for R143: MAIN, 12 VGA (109.22, 38.10). Connecting pin to net "VGA_G".
+#20 WARNING(ORCAP-36038): "No_connect" property on Pin "R151.4" ignored for R151: MAIN, 12 VGA (109.22, 91.44). Connecting pin to net "VGA_G".
+#21 WARNING(ORCAP-36038): "No_connect" property on Pin "R145.4" ignored for R145: MAIN, 12 VGA (109.22, 55.88). Connecting pin to net "VGA_G".
+#22 WARNING(ORCAP-36038): "No_connect" property on Pin "R150.5" ignored for R150: MAIN, 12 VGA (45.72, 93.98). Connecting pin to net "N16870643".
+#23 WARNING(ORCAP-36038): "No_connect" property on Pin "U15.2" ignored for U15: MAIN, 13 POWER (243.84, 40.64). Connecting pin to net "N16872608".
+#24 WARNING(ORCAP-36006): Part Name "JMP-2_0_CR1220HOLDER-SMD_BS-1220-2(CR1220)" is renamed to "JMP-2_0_CR1220HOLDER-SMD_BS-122".
+#25 WARNING(ORCAP-36006): Part Name "CAPT_100UF_3528_6R3V_10%_LXXXX_CAP-2R5-6R3X6R3_470UF_6V3" is renamed to "CAPT_100UF_3528_6R3V_10%_LXXXX_".
+#26 WARNING(ORCAP-36006): Part Name "SMA-50R_0_SMA-50R-DIP_SMA-50R/NI" is renamed to "SMA-50R_0_SMA-50R-DIP_SMA-50R/N".
+#27 WARNING(ORCAP-36006): Part Name "JTAG 7X2/SM_HEADER7X2-2R54-M_JTAG 7X2/SM" is renamed to "JTAG 7X2/SM_HEADER7X2-2R54-M_JT".
+#28 WARNING(ORCAP-36006): Part Name "CONNECTOR VGA_0_CONNECTOR_VGA_CONNECTOR VGA" is renamed to "CONNECTOR VGA_0_CONNECTOR_VGA_C".
+#29 WARNING(ORCAP-36006): Part Name "CONN RCPT 9X2_HEADER9X2-2R54-M_HEADER9X2-2R54-M" is renamed to "CONN RCPT 9X2_HEADER9X2-2R54-M_".
+#30 WARNING(ORCAP-36006): Part Name "CONN RCPT 6X2_HEADER6X2-2R54-M_HEADER6X2-2R54-M" is renamed to "CONN RCPT 6X2_HEADER6X2-2R54-M_".
+#31 WARNING(ORCAP-36006): Part Name "CONN RECT 20X2_HEADER20X2-2R54-M_HEADER20X2-2R54-M" is renamed to "CONN RECT 20X2_HEADER20X2-2R54-".
+#32 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_200MA_L0805_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_200MA_L080".
+#33 WARNING(ORCAP-36006): Part Name "IND_BEAD_0805_600OHM_1_L0805_BLM21PG600" is renamed to "IND_BEAD_0805_600OHM_1_L0805_BL".
+#34 WARNING(ORCAP-36006): Part Name "SI4497DY-T1-GE3_SOIC8_IRF9321TRPBF" is renamed to "SI4497DY-T1-GE3_SOIC8_IRF9321TR".
+#35 WARNING(ORCAP-36006): Part Name "SWITCH-SPST-4P_K2-1112SW-A4SW-04_K2-1112SW-A4SW-04" is renamed to "SWITCH-SPST-4P_K2-1112SW-A4SW-0".
+#36 WARNING(ORCAP-36006): Part Name "TESTPOINT_0_TP-0R75_TESTPOINT/NI" is renamed to "TESTPOINT_0_TP-0R75_TESTPOINT/N".
+#37 WARNING(ORCAP-36006): Part Name "MP1584EN-LF-Z_SOIC8-PAD_MP1584EN-LF-Z" is renamed to "MP1584EN-LF-Z_SOIC8-PAD_MP1584E".
+#38 WARNING(ORCAP-36006): Part Name "TLV62565DBVR_SOT23-5_TLV62565DBVR" is renamed to "TLV62565DBVR_SOT23-5_TLV62565DB".
+#39 WARNING(ORCAP-36006): Part Name "XC6SLX150-2FGG484_FGG484_(S1+S2+S3+S4+S5+S6)_XC6SLX150-2FGG484" is renamed to "XC6SLX150-2FGG484_FGG484_(S1+S2".
+#40 WARNING(ORCAP-36006): Part Name "MT41J256M16_2_FBGA-96_MT41J256M16_2" is renamed to "MT41J256M16_2_FBGA-96_MT41J256M".
+#41 WARNING(ORCAP-36006): Part Name "TPS51200DRCR_0_VSON-10_TPS51200DRCR" is renamed to "TPS51200DRCR_0_VSON-10_TPS51200".
+#42 WARNING(ORCAP-36006): Part Name "W25Q256FV/BV_SOIC-16_300_W25Q128FVFIG" is renamed to "W25Q256FV/BV_SOIC-16_300_W25Q12".
+#43 WARNING(ORCAP-36006): Part Name "RTL8211EG-VB-CG_QFN-64_RTL8211EG-VB-CG" is renamed to "RTL8211EG-VB-CG_QFN-64_RTL8211E".
+#44 WARNING(ORCAP-36006): Part Name "TSX-3225_X-4P-3R2X2R5-SMD_X322525MSB4SI" is renamed to "TSX-3225_X-4P-3R2X2R5-SMD_X3225".
+#45 WARNING(ORCAP-36006): Part Name "CY7C68013A_3_QFN-56_CY7C68013A-56LTXC" is renamed to "CY7C68013A_3_QFN-56_CY7C68013A-".
+#46 WARNING(ORCAP-36042): Pin "AVCC" is renamed to "AVCC#3" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#47 WARNING(ORCAP-36042): Pin "AGND" is renamed to "AGND#6" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#48 WARNING(ORCAP-36042): Pin "AVCC" is renamed to "AVCC#7" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#49 WARNING(ORCAP-36042): Pin "AGND" is renamed to "AGND#10" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#50 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#11" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#51 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#12" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#52 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#17" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#53 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#26" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#54 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#27" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#55 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#28" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#56 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#32" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#57 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#43" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#58 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#53" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#59 WARNING(ORCAP-36042): Pin "VCC" is renamed to "VCC#55" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#60 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#56" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#61 WARNING(ORCAP-36042): Pin "GND" is renamed to "GND#41" as visible power pin of same name already exists in Package CY7C68013A_3 , U7: MAIN, 10 USB PHY (88.90, 60.96).
+#62 WARNING(ORCAP-36006): Part Name "TSX-3225_X-4P-3R2X2R5-SMD_X322524MSB4SI" is renamed to "TSX-3225_X-4P-3R2X2R5-SMD_X32_1".
+#63 WARNING(ORCAP-36006): Part Name "USB-MICRO_USB-U-F-M5SS-W-1_U-F-M5SS-W-1" is renamed to "USB-MICRO_USB-U-F-M5SS-W-1_U-F-".
+#64 WARNING(ORCAP-36006): Part Name "XTAL_5032_0_X-2P-3R2X1R5-SMD_Q13FC1350000400" is renamed to "XTAL_5032_0_X-2P-3R2X1R5-SMD_Q1".
+#65 WARNING(ORCAP-36006): Part Name "SMD_OSC_3_X-4P-5R0X3R2-SMD_SG5032CAN-50M-TJGA" is renamed to "SMD_OSC_3_X-4P-5R0X3R2-SMD_SG50".
+INFO(ORCAP-36080): Scanning netlist files ...
+
+Loading... H:\github\FPGA-PROJECT\HARDWARE\XC6SLX150_PACK_V10A\SCH\allegro/pstchip.dat
+
+Loading... H:\github\FPGA-PROJECT\HARDWARE\XC6SLX150_PACK_V10A\SCH\allegro/pstchip.dat
+
+Loading... H:\github\FPGA-PROJECT\HARDWARE\XC6SLX150_PACK_V10A\SCH\allegro/pstchip.dat
+
+Loading... H:\github\FPGA-PROJECT\HARDWARE\XC6SLX150_PACK_V10A\SCH\allegro/pstxnet.dat
+packaging the design view...
